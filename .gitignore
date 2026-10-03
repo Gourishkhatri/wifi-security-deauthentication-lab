@@ -1,0 +1,4 @@
+*_backup.pcapng
+01_normal_wifi_traffic.pcapng
+*.tmp
+*.temp
